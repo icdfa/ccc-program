@@ -217,6 +217,15 @@ The capstone project is a comprehensive, end-to-end simulated consulting engagem
 - **Monthly Practical Assignments (60%):** Professional deliverables submitted at the end of Months 1, 2, and 3
 - **Capstone Project (40%):** Final simulated consulting engagement in Month 4
 
+### Assessment Materials
+
+- [Pre-Assessment](./Assessments/Pre-Assessment.md) - Test your baseline knowledge
+- [Module 1 Quiz](./Module-1-Strategic-Security-Consulting/Assessments/Module-1-Quiz.md)
+- [Module 2 Quiz](./Module-2-GRC-Deep-Dive/Assessments/Module-2-Quiz.md)
+- [Module 3 Quiz](./Module-3-Advanced-Security-Architecture/Assessments/Module-3-Quiz.md)
+- [Module 4 Quiz](./Module-4-Professional-Consulting-Skills/Assessments/Module-4-Quiz.md)
+- [Practice Exam 1](./Assessments/Practice-Exams/Practice-Exam-1.md) - 50 questions
+
 ### Grading and Evaluation
 
 - [Grading Rubric](./Assessments/Grading-Rubric.md)
@@ -235,12 +244,35 @@ The following professional templates are provided to support your assignments an
 - [Statement of Work (SOW) Template](./Templates/SOW-Template.md)
 - [Security Assessment Report Template](./Templates/Security-Assessment-Report-Template.md)
 - [Security Roadmap Template](./Templates/Security-Roadmap-Template.md)
+- [Resume Template](./Templates/Resume-Template.md)
+- [Portfolio Template](./Templates/Portfolio-Template.md)
+
+---
+
+## Study Plans
+
+Choose a study plan that fits your schedule and learning pace:
+
+| Track | Duration | Weekly Commitment | Best For |
+|-------|----------|-------------------|----------|
+| [Fast Track (Intensive)](./Documentation/Fast-Track-Study-Plan.md) | 4 months | 20 hours/week | Dedicated learners who can commit significant time |
+| Standard Track | 6 months | 13-14 hours/week | Professionals balancing work and study |
+| Part-Time Track | 8 months | 10 hours/week | Those with limited weekly availability |
+
+**Detailed Study Plans:**
+- [Fast Track (Intensive) Study Plan](./Documentation/Fast-Track-Study-Plan.md) - Week-by-week breakdown with specific readings, assignments, and exercises
+- [Study Plans Overview](./Documentation/Study-Plans.md) - Comparison of all three tracks
 
 ---
 
 ## Program Documentation
 
 - [Program Guide](./Documentation/Program-Guide.md) - Comprehensive guide to navigating the CCC program
+- [FAQ](./Documentation/FAQ.md) - Frequently asked questions
+- [Glossary](./Documentation/GLOSSARY.md) - Technical terms and definitions
+- [Career Pathways](./Documentation/Career-Pathways.md) - Job roles and career advancement
+- [Community Resources](./Documentation/COMMUNITY.md) - Forums, study groups, and mentorship
+- [Troubleshooting Guide](./Documentation/TROUBLESHOOTING.md) - Common issues and solutions
 
 ---
 
@@ -292,8 +324,17 @@ This program and all materials are proprietary to the International Cybersecurit
 
 ---
 
+## Contributing
+
+We welcome contributions to improve the CCC program. Please read our [Contributing Guidelines](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md) before submitting pull requests.
+
+---
+
 ## Version History
 
+See [CHANGELOG.md](./CHANGELOG.md) for detailed version history.
+
+- **v2.0** - Major update with learning outcomes, assessments, study plans, tools, diagrams, and community resources
 - **v1.0** - Initial release of CCC program materials and curriculum
 
 ---
