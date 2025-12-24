@@ -326,7 +326,6 @@ The CCC program provides you with the knowledge, skills, and credentials to adva
 
 ---
 
-**Created by:** Manus AI Assistant  
 **For:** International Cybersecurity and Digital Forensics Academy (ICDFA)  
 **Date:** December 24, 2025  
 **Version:** 2.0
