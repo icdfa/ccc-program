@@ -262,6 +262,7 @@ Choose a study plan that fits your schedule and learning pace:
 **Detailed Study Plans:**
 - [Fast Track (Intensive) Study Plan](./Documentation/Fast-Track-Study-Plan.md) - 16 weeks, 20 hours/week with daily breakdown
 - [Standard Track Study Plan](./Documentation/Standard-Track-Study-Plan.md) - 24 weeks, 13-14 hours/week with detailed schedule
+- [Standard Track Syllabus](./Documentation/Standard-Track-Syllabus.md) - Official course syllabus with learning objectives, readings, and outcomes
 - [Part-Time Track Study Plan](./Documentation/Part-Time-Track-Study-Plan.md) - 32 weeks (64 weeks total), 10 hours/week for busy professionals
 - [Study Plans Overview](./Documentation/Study-Plans.md) - Comparison of all three tracks
 
