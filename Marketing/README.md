@@ -225,7 +225,6 @@ For questions about marketing materials or to request custom designs, please con
 
 ---
 
-**Created by:** Manus AI Assistant  
 **For:** International Cybersecurity and Digital Forensics Academy (ICDFA)  
 **Date:** December 24, 2025  
 **Version:** 2.0 (Branded)
