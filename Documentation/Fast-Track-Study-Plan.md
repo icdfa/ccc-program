@@ -533,7 +533,6 @@ Use this checklist to track your progress through the Fast Track program:
 
 ---
 
-**Created by:** Manus AI Assistant  
 **For:** International Cybersecurity and Digital Forensics Academy (ICDFA)  
 **Date:** December 24, 2025  
 **Version:** 1.0
