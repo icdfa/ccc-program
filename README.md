@@ -256,11 +256,13 @@ Choose a study plan that fits your schedule and learning pace:
 | Track | Duration | Weekly Commitment | Best For |
 |-------|----------|-------------------|----------|
 | [Fast Track (Intensive)](./Documentation/Fast-Track-Study-Plan.md) | 4 months | 20 hours/week | Dedicated learners who can commit significant time |
-| Standard Track | 6 months | 13-14 hours/week | Professionals balancing work and study |
-| Part-Time Track | 8 months | 10 hours/week | Those with limited weekly availability |
+| [Standard Track](./Documentation/Standard-Track-Study-Plan.md) | 6 months | 13-14 hours/week | Professionals balancing work and study |
+| [Part-Time Track](./Documentation/Part-Time-Track-Study-Plan.md) | 8 months | 10 hours/week | Those with limited weekly availability |
 
 **Detailed Study Plans:**
-- [Fast Track (Intensive) Study Plan](./Documentation/Fast-Track-Study-Plan.md) - Week-by-week breakdown with specific readings, assignments, and exercises
+- [Fast Track (Intensive) Study Plan](./Documentation/Fast-Track-Study-Plan.md) - 16 weeks, 20 hours/week with daily breakdown
+- [Standard Track Study Plan](./Documentation/Standard-Track-Study-Plan.md) - 24 weeks, 13-14 hours/week with detailed schedule
+- [Part-Time Track Study Plan](./Documentation/Part-Time-Track-Study-Plan.md) - 32 weeks (64 weeks total), 10 hours/week for busy professionals
 - [Study Plans Overview](./Documentation/Study-Plans.md) - Comparison of all three tracks
 
 ---
