@@ -403,7 +403,6 @@ International Cybersecurity and Digital Forensics Academy (ICDFA)
 
 ---
 
-**Created by:** Manus AI Assistant  
 **For:** International Cybersecurity and Digital Forensics Academy (ICDFA)  
 **Date:** December 24, 2025  
 **Version:** 1.0
