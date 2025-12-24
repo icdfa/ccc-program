@@ -632,7 +632,6 @@ This detailed study plan is designed for students who can dedicate 13-14 hours p
 
 ---
 
-**Created by:** Manus AI Assistant  
 **For:** International Cybersecurity and Digital Forensics Academy (ICDFA)  
 **Date:** December 24, 2025  
 **Version:** 1.0
