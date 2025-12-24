@@ -872,7 +872,6 @@ This syllabus is subject to change at the discretion of the program director. St
 
 **Last Updated:** December 24, 2025
 
-**Prepared by:** Manus AI Assistant for ICDFA
 
 ---
 
