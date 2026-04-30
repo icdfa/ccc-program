@@ -174,7 +174,7 @@ ccc-program/
 
 ---
 
-## Module 4: Professional Consulting Skills & Capstone Project
+## Module 4: Professional Consulting Skills
 
 **Duration:** 80 Hours
 
