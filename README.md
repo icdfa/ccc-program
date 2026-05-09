@@ -190,19 +190,13 @@ ccc-program/
 - [Study Material](./Module-4-Professional-Consulting-Skills/Study-Materials/4.2-Consulting-Project-Management.md)
 - [Assignment: Project Plan](./Module-4-Professional-Consulting-Skills/Assignments/4.2-Assignment-Consulting-Project-Management.md)
 
-#### 4.3 Capstone Project Simulation
-- [Study Material](./Module-4-Professional-Consulting-Skills/Study-Materials/4.3-Capstone-Project-Simulation.md)
-- [Assignment: Capstone Project](./Module-4-Professional-Consulting-Skills/Assignments/4.3-Assignment-Capstone-Project-Simulation.md)
-
-#### 4.4 Certification Preparation
-- [Study Material](./Module-4-Professional-Consulting-Skills/Study-Materials/4.4-Certification-Preparation.md)
 
 ### Additional Resources
 - [Module 4 Resources](./Module-4-Professional-Consulting-Skills/Resources/Additional-Resources.md)
 
 ---
 
-## Capstone Project
+## Phase 2 Capstone Project
 
 The capstone project is a comprehensive, end-to-end simulated consulting engagement that requires you to apply all knowledge and skills learned throughout the program.
 
